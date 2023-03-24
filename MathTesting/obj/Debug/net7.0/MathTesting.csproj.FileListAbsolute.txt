@@ -1,0 +1,15 @@
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\bin\Debug\net7.0\MathTesting.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\bin\Debug\net7.0\MathTesting.deps.json
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\bin\Debug\net7.0\MathTesting.runtimeconfig.json
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\bin\Debug\net7.0\MathTesting.dll
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\bin\Debug\net7.0\MathTesting.pdb
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\obj\Debug\net7.0\MathTesting.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\obj\Debug\net7.0\MathTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\obj\Debug\net7.0\MathTesting.AssemblyInfoInputs.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\obj\Debug\net7.0\MathTesting.AssemblyInfo.cs
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\obj\Debug\net7.0\MathTesting.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\obj\Debug\net7.0\MathTesting.dll
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\obj\Debug\net7.0\refint\MathTesting.dll
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\obj\Debug\net7.0\MathTesting.pdb
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\obj\Debug\net7.0\MathTesting.genruntimeconfig.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\testing_csharp\MathTesting\obj\Debug\net7.0\ref\MathTesting.dll

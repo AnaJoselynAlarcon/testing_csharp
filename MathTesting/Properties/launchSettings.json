@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MathTesting": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
